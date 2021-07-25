@@ -159,7 +159,7 @@ function App() {
     <section className="main">
       <div className="container">
         <div className="title">
-          <h2>Item saver</h2>
+          <h2>Item saver 2</h2>
         </div>
         <div className="form">
           {alert.show && (
