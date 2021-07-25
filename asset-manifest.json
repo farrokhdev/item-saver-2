@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/item-saver-2/static/css/main.fb09d85e.chunk.css",
+    "main.js": "/item-saver-2/static/js/main.fc8a62db.chunk.js",
+    "main.js.map": "/item-saver-2/static/js/main.fc8a62db.chunk.js.map",
+    "runtime-main.js": "/item-saver-2/static/js/runtime-main.d42218e6.js",
+    "runtime-main.js.map": "/item-saver-2/static/js/runtime-main.d42218e6.js.map",
+    "static/js/2.7f4eacd7.chunk.js": "/item-saver-2/static/js/2.7f4eacd7.chunk.js",
+    "static/js/2.7f4eacd7.chunk.js.map": "/item-saver-2/static/js/2.7f4eacd7.chunk.js.map",
+    "index.html": "/item-saver-2/index.html",
+    "static/css/main.fb09d85e.chunk.css.map": "/item-saver-2/static/css/main.fb09d85e.chunk.css.map",
+    "static/js/2.7f4eacd7.chunk.js.LICENSE.txt": "/item-saver-2/static/js/2.7f4eacd7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d42218e6.js",
+    "static/js/2.7f4eacd7.chunk.js",
+    "static/css/main.fb09d85e.chunk.css",
+    "static/js/main.fc8a62db.chunk.js"
+  ]
+}
